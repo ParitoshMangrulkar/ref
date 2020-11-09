@@ -2,7 +2,7 @@
 
 OnDemand Learning : Trailblazer - Salesforce Educational Concepts Library.
 
-APPExchange: Adapters available for integrations.
+APPExchange: Adapters available for integrations. -- Similar to AppStore.  Sales Apps, Marketing Apps, Finance Apps, Analytics Apps. 
 
 Metadata Driven: Because of this Customizatons won't break anything.
 
